@@ -10,4 +10,4 @@ This repo contains the code from our 2022 cats workshop.
 1. Cats (Semigroup, Monoid, Functor, Bifunctor, Applicative, Monad, bonus-tips)
 
 ### Recordings:
-- Chapters 5-6: https://drive.google.com/drive/folders/1o831HswRcGU9I8NRap-Y_vz4zzsBVknU
+- Sections 5-6: https://drive.google.com/drive/folders/1o831HswRcGU9I8NRap-Y_vz4zzsBVknU
