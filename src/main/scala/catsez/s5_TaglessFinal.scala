@@ -334,7 +334,7 @@ object s5_TaglessFinal {
 
 
 
-  //implicit val eitherTBiMap: BiMap[EitherT] = ???
+  //implicit val eitherTBiMap: BiMap[EitherT] = ??? // <- does not compile because EitherT has 3 type parameters
 
 
 
