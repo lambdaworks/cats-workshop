@@ -2,7 +2,7 @@ package catsez
 
 import java.util.UUID
 
-object s3_TypeClasses {
+object s03_TypeClasses {
 
   // TYPE-CLASS PATTERN
 

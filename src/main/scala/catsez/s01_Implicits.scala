@@ -2,7 +2,7 @@ package catsez
 
 import scala.language.implicitConversions
 
-object s1_Implicits {
+object s01_Implicits {
 
   // IMPLICIT RESOLUTION
 

@@ -1,6 +1,6 @@
 package catsez
 
-object s2_Variance {
+object s02_Variance {
 
   // TYPE-VARIANCE
 

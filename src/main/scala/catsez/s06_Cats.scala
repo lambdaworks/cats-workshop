@@ -15,7 +15,7 @@ import scala.concurrent.ExecutionContext.Implicits.global
 import scala.concurrent.Future
 import scala.util.Try
 
-object s6_Cats {
+object s06_Cats {
 
   /************************************************************************
    * Show        *   show

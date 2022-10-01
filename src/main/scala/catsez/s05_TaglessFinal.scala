@@ -8,7 +8,7 @@ import scala.concurrent.ExecutionContext.Implicits.global
 import scala.concurrent.Future
 import scala.util.{Success, Try}
 
-object s5_TaglessFinal {
+object s05_TaglessFinal {
 
   // TAGLESS-FINAL PATTERN
 
